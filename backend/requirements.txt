@@ -1,0 +1,4 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+rembg==2.0.50
+pymatting==1.1.12
